@@ -1,0 +1,1 @@
+git+https://${GIT_TOKEN}@github.com/Loo-ERP/sale-workflow@refs/pull/1/head#subdirectory=setup/sale_procurement_group_by_line
